@@ -1,13 +1,15 @@
 {
 
     
-    "name": "cotoiflux/randomNum",
+    "name": "cotoiflux/randomnum",
+
+    "version": "1.º.º",
 
     "description": "Generates random number",
 
     "keywords": ["number", "random"],
 
-    "homepage": "http://github.com/Seldaek/monolog",
+    "homepage": "https://github.com/cotoflux/randomNum.git",
 
     "require": {
         "phpunit/phpunit": "^8"
